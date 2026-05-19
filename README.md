@@ -29,8 +29,8 @@ A local voice-to-text app built with Python + Streamlit + Groq API (Whisper Larg
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voicescribe.git
-cd voicescribe
+git clone https://github.com/YOUR_USERNAME/Voicescribe.git
+cd Voicescribe
 ```
 
 ### 2. Install dependencies
