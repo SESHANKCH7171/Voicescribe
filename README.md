@@ -194,3 +194,16 @@ MIT — use it, modify it, ship it.
 ---
 
 *Built by an AI developer from Nashik, India 🇮🇳 — because voice-to-text should be free.*
+
+***
+
+## 👤 Author
+
+**Seshank** — AI Systems Architect | Agentic AI & LLM Interoperability  
+🔗 [LinkedIn](https://www.linkedin.com/in/seshankch/) | 🐙 [GitHub](https://github.com/SESHANKCH7171)
+
+***
+
+## ⭐ If this helped you
+
+Star the repo and share it with a developer who's tired of single-provider lock-in.
